@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ultimate Dog Explorer</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>🐶 Ultimate Dog Explorer</h1>
+      <div class="controls">
+        <select id="breed-selector">json-server --watch db.json --port 3000
+          <option value="">-- Select Breed --</option>
+        </select>
+        <button id="load-btn">Load Breed</button>
+        <button id="view-favorites">⭐ My Favorites</button>
+        <button id="shuffle-btn">🔀 Shuffle</button>
+      </div>
+    </header>
+
+    <main>
+      <div id="breed-info" class="breed-info"></div>
+      <div id="dog-grid" class="dog-grid"></div>
+      <div id="status-message" class="status-message"></div>
+    </main>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>

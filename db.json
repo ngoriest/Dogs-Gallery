@@ -1,0 +1,49 @@
+{
+    "breeds": [
+      {
+        "id": 1,
+        "name": "germanshepherd",
+        "images": [
+          "https://images.dog.ceo/breeds/germanshepherd/n02106662_2415.jpg",
+          "https://images.dog.ceo/breeds/germanshepherd/n02106662_1000.jpg",
+          "https://images.dog.ceo/breeds/germanshepherd/n02106662_3002.jpg"
+        ],
+        "likes": 0,
+        "description": "Intelligent working dog"
+      },
+      {
+        "id": 2,
+        "name": "shiba",
+        "images": [
+          "https://images.dog.ceo/breeds/shiba/shiba-1.jpg",
+          "https://images.dog.ceo/breeds/shiba/shiba-2.jpg",
+          "https://images.dog.ceo/breeds/shiba/shiba-3.jpg"
+        ],
+        "likes": 0,
+        "description": "Japanese fox-like breed"
+      },
+      {
+        "id": 3,
+        "name": "pug",
+        "images": [
+          "https://images.dog.ceo/breeds/pug/n02088364_11136.jpg",
+          "https://images.dog.ceo/breeds/pug/n02110958_1024.jpg",
+          "https://images.dog.ceo/breeds/pug/n02110958_1040.jpg"
+        ],
+        "likes": 0,
+        "description": "Small wrinkly-faced dog"
+      },
+      {
+        "id": 4,
+        "name": "goldenretriever",
+        "images": [
+          "https://images.dog.ceo/breeds/retriever-golden/n02099601_100.jpg",
+          "https://images.dog.ceo/breeds/retriever-golden/n02099601_1000.jpg",
+          "https://images.dog.ceo/breeds/retriever-golden/n02099601_1010.jpg"
+        ],
+        "likes": 0,
+        "description": "Friendly family dog"
+      }
+    ],
+    "favorites": []
+  }
