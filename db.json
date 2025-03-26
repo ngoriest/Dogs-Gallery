@@ -1,49 +1,115 @@
 {
-    "breeds": [
-      {
-        "id": 1,
-        "name": "germanshepherd",
-        "images": [
-          "https://images.dog.ceo/breeds/germanshepherd/n02106662_2415.jpg",
-          "https://images.dog.ceo/breeds/germanshepherd/n02106662_1000.jpg",
-          "https://images.dog.ceo/breeds/germanshepherd/n02106662_3002.jpg"
-        ],
-        "likes": 0,
-        "description": "Intelligent working dog"
-      },
-      {
-        "id": 2,
-        "name": "shiba",
-        "images": [
-          "https://images.dog.ceo/breeds/shiba/shiba-1.jpg",
-          "https://images.dog.ceo/breeds/shiba/shiba-2.jpg",
-          "https://images.dog.ceo/breeds/shiba/shiba-3.jpg"
-        ],
-        "likes": 0,
-        "description": "Japanese fox-like breed"
-      },
-      {
-        "id": 3,
-        "name": "pug",
-        "images": [
-          "https://images.dog.ceo/breeds/pug/n02088364_11136.jpg",
-          "https://images.dog.ceo/breeds/pug/n02110958_1024.jpg",
-          "https://images.dog.ceo/breeds/pug/n02110958_1040.jpg"
-        ],
-        "likes": 0,
-        "description": "Small wrinkly-faced dog"
-      },
-      {
-        "id": 4,
-        "name": "goldenretriever",
-        "images": [
-          "https://images.dog.ceo/breeds/retriever-golden/n02099601_100.jpg",
-          "https://images.dog.ceo/breeds/retriever-golden/n02099601_1000.jpg",
-          "https://images.dog.ceo/breeds/retriever-golden/n02099601_1010.jpg"
-        ],
-        "likes": 0,
-        "description": "Friendly family dog"
-      }
-    ],
-    "favorites": []
-  }
+  "breeds": [
+    {
+      "id": 1,
+      "name": "germanshepherd",
+      "images": [
+        "https://images.dog.ceo/breeds/germanshepherd/n02106662_2415.jpg",
+        "https://images.dog.ceo/breeds/germanshepherd/n02106662_1000.jpg",
+        "https://images.dog.ceo/breeds/germanshepherd/n02106662_3002.jpg"
+      ],
+      "likes": 0,
+      "description": "Intelligent and courageous working dog"
+    },
+    {
+      "id": 2,
+      "name": "pug",
+      "images": [
+        "https://images.dog.ceo/breeds/pug/n02088364_11136.jpg",
+        "https://images.dog.ceo/breeds/pug/n02110958_1024.jpg",
+        "https://images.dog.ceo/breeds/pug/n02110958_1040.jpg"
+      ],
+      "likes": 0,
+      "description": "Small companion dog with wrinkly face"
+    },
+    {
+      "id": 3,
+      "name": "goldenretriever",
+      "images": [
+        "https://images.dog.ceo/breeds/retriever-golden/n02099601_100.jpg",
+        "https://images.dog.ceo/breeds/retriever-golden/n02099601_1000.jpg",
+        "https://images.dog.ceo/breeds/retriever-golden/n02099601_1010.jpg"
+      ],
+      "likes": 0,
+      "description": "Friendly and intelligent family dog"
+    },
+    {
+      "id": 4,
+      "name": "bulldog",
+      "images": [
+        "https://images.dog.ceo/breeds/bulldog-english/mami.jpg",
+        "https://images.dog.ceo/breeds/bulldog-english/jager-1.jpg",
+        "https://images.dog.ceo/breeds/bulldog-french/n02108915_10047.jpg"
+      ],
+      "likes": 0,
+      "description": "Stocky build with distinctive pushed-in nose"
+    },
+    {
+      "id": 5,
+      "name": "beagle",
+      "images": [
+        "https://images.dog.ceo/breeds/beagle/n02088364_11136.jpg",
+        "https://images.dog.ceo/breeds/beagle/n02088364_1000.jpg",
+        "https://images.dog.ceo/breeds/beagle/n02088364_3000.jpg"
+      ],
+      "likes": 0,
+      "description": "Curious scent hound with floppy ears"
+    },
+    {
+      "id": 6,
+      "name": "poodle",
+      "images": [
+        "https://images.dog.ceo/breeds/poodle-standard/n02113799_100.jpg",
+        "https://images.dog.ceo/breeds/poodle-standard/n02113799_1000.jpg",
+        "https://images.dog.ceo/breeds/poodle-standard/n02113799_3000.jpg"
+      ],
+      "likes": 0,
+      "description": "Highly intelligent with hypoallergenic coat"
+    },
+    {
+      "id": 7,
+      "name": "dalmatian",
+      "images": [
+        "https://images.dog.ceo/breeds/dalmatian/cooper1.jpg",
+        "https://images.dog.ceo/breeds/dalmatian/cooper2.jpg",
+        "https://images.dog.ceo/breeds/dalmatian/cooper3.jpg"
+      ],
+      "likes": 0,
+      "description": "Energetic spotted breed made famous by Disney"
+    },
+    {
+      "id": 8,
+      "name": "siberianhusky",
+      "images": [
+        "https://images.dog.ceo/breeds/husky/n02110185_10047.jpg",
+        "https://images.dog.ceo/breeds/husky/n02110185_1000.jpg",
+        "https://images.dog.ceo/breeds/husky/n02110185_3000.jpg"
+      ],
+      "likes": 0,
+      "description": "Blue-eyed sled dog built for cold weather"
+    },
+    {
+      "id": 9,
+      "name": "labrador",
+      "images": [
+        "https://images.dog.ceo/breeds/labrador/n02099712_100.jpg",
+        "https://images.dog.ceo/breeds/labrador/n02099712_1000.jpg",
+        "https://images.dog.ceo/breeds/labrador/n02099712_3000.jpg"
+      ],
+      "likes": 0,
+      "description": "America's most popular family companion"
+    },
+    {
+      "id": 10,
+      "name": "chihuahua",
+      "images": [
+        "https://images.dog.ceo/breeds/chihuahua/n02085620_100.jpg",
+        "https://images.dog.ceo/breeds/chihuahua/n02085620_1000.jpg",
+        "https://images.dog.ceo/breeds/chihuahua/n02085620_3000.jpg"
+      ],
+      "likes": 0,
+      "description": "Tiny size with big personality"
+    }
+  ],
+  "favorites": []
+}
