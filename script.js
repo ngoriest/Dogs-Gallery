@@ -1,6 +1,6 @@
 class DogExplorer {
   constructor() {
-    this.apiBase = 'http://localhost:3000';
+    this.apiBase = 'https://dogs-gallery-dvi2.onrender.com';
     this.currentBreed = null;
     this.initElements();
     this.setupEventListeners();
